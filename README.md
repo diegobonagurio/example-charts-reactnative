@@ -18,4 +18,8 @@ Run the command yarn to install the dependencies and run for execute the applica
 ```bash
 expo start
 ``` 
+if necessary install the expo-cli
+```bash
+npm install --global expo-cli
+```
 
